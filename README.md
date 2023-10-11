@@ -1,7 +1,7 @@
 
 # Hand Gesture Detection using OpenCV
 
-Submission for Induction Application for the Electronics and Robotics Club, BITS Goa
+Project made for the Electronics and Robotics Club, BITS Goa
 
 
 ## Documentation
